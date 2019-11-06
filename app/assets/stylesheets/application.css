@@ -13,3 +13,7 @@
  *= require_tree .
  *= require_self
  */
+
+.bg-light {
+    background-color: #bdc3c7!important;
+}
